@@ -23,8 +23,8 @@ An exploratory data analysis of publishing trends using a Goodreads dataset of 1
 ## Data Caveat
 This dataset primarily reflects publications through 2006 and is not representative of current publishing trends. Post-2007 data is significantly underrepresented.
 
-## Tableau Dashboard
-[View the interactive dashboard on Tableau Public](<YOUR TABLEAU URL HERE>)
+## Dashboard Preview
+![Publishing Industry Analysis Dashboard](publishing-trends.png)
 
 ## Files
 - `books_analysis.ipynb` — full analysis notebook
